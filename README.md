@@ -28,7 +28,7 @@
 
 ## 対応 OS
 
-macOS 13.0 Ventura 以降 / Universal（Apple Silicon・Intel）/ Apple 公証済み
+macOS 13.0 Ventura 以降 / Apple Silicon（arm64）専用 / Apple 公証済み
 
 ---
 
