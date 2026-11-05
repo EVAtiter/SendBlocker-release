@@ -93,5 +93,3 @@ macOS 13.0 Ventura 以降 / Apple Silicon（arm64）専用 / Apple 公証済み
 ---
 
 Copyright © 2026 EVA Titer. All rights reserved.
-
-このリポジトリはバイナリ配布専用です。
