@@ -93,5 +93,3 @@ macOS 13.0 Ventura or later / Apple Silicon (arm64) only / Notarized by Apple
 ---
 
 Copyright © 2026 EVA Titer. All rights reserved.
-
-This repository is for binary distribution only.
